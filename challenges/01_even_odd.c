@@ -5,7 +5,7 @@
 #define FALSE 0
 
 /*
-1. Even or Odd Checker
+Even or Odd Checker
    - Input: An integer
    - Output: Whether it's even or odd
 */

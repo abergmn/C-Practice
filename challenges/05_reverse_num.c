@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TRUE 1
-#define FALSE 0
-
 /*
-3. Reverse a Number
+Reverse a Number
    - Input: An integer (e.g., 1234)
    - Output: Digits in reverse (e.g., 4321)
 */

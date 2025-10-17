@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define TRUE 1
-#define FALSE 0
-
 /*
-2. Sum of First N Natural Numbers
+Sum of First N Natural Numbers
    - Input: A positive integer n
    - Output: Sum from 1 to n
 */

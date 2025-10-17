@@ -5,7 +5,7 @@
 #define FALSE 0
 
 /*
-10. Print Fibonacci Sequence
+Print Fibonacci Sequence
     - Input: A number n
     - Output: First n numbers in the Fibonacci sequence
 */
