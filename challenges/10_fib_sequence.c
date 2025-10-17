@@ -5,14 +5,11 @@
 #define FALSE 0
 
 /*
-3. Reverse a Number
-   - Input: An integer (e.g., 1234)
-   - Output: Digits in reverse (e.g., 4321)
+10. Print Fibonacci Sequence
+    - Input: A number n
+    - Output: First n numbers in the Fibonacci sequence
 */
-int reverseNumber(int t_rev_int) {
-    // convert to string, reverse string
-    // convert to int, return int
-}
+int fibonacciSequence(int t_num) {}
 
 int main(int argc, char *argv[]) {
     if (argc < 2) {

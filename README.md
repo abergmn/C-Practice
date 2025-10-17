@@ -15,7 +15,7 @@ This repository contains beginner-level ANSI C programming exercises to practice
 - [ ] Multiplication Table
 - [ ] Character Type Checker
 - [ ] Simple Calculator
-- [ ] Fibonacci Series
+- [ ] Fibonacci Sequence
 
 ## How to Compile
 
