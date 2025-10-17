@@ -6,16 +6,17 @@ This repository contains beginner-level ANSI C programming exercises to practice
 
 ## 📋 Challenges
 
-- [x] Even or Odd Checker
-- [x] Sum of First N Natural Numbers
-- [ ] Reverse a Number
-- [ ] Palindrome Checker (Integer)
-- [ ] Count Digits in a Number
-- [ ] Find the Maximum of Three Numbers
-- [ ] Multiplication Table
-- [ ] Character Type Checker
-- [ ] Simple Calculator
-- [ ] Fibonacci Sequence
+- [x] 01. Even or Odd Checker
+- [x] 02. Sum of First N Natural Numbers
+- [ ] 03. Find the Maximum of Three Numbers
+- [ ] 04. Count Digits in a Number
+- [ ] 05. Reverse a Number
+- [ ] 06. Multiplication Table
+- [ ] 07. Character Type Checker
+- [ ] 08. Fibonacci Sequence
+- [ ] 09. Simple Calculator
+- [ ] 10. Palindrome Checker (Integer)
+
 
 ## How to Compile
 
